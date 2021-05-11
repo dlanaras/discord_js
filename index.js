@@ -1,4 +1,4 @@
-// ODM5MDE3ODU0NDYzMzc3NDA4.YJDiRA.x1TaZzJZprZuzPbh0LuzOHYWNGI
+
 const Discord = require("discord.js")
 const config = require("./config.json");
 const client = new Discord.Client()
